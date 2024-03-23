@@ -6,4 +6,4 @@ Harness YOLOv5 &amp; PyTorch to boost pothole detection with pre-trained weights
 
 The "best.pt" weight file encapsulates the optimized state of the YOLO model, representing the most effective configuration for detecting potholes based on the training data and optimization criteria. When deploying the YOLO model for pothole detection, using the "best.pt" weight file ensures the highest accuracy and reliability in identifying potholes in images and video streams.<h5>
 
-[![Demo Video]]()
+![Demo](detection.gif)
